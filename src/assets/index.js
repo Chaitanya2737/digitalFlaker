@@ -1,0 +1,1 @@
+export {default as image } from "./pexels-anuragsinngh-2264075.jpg"
